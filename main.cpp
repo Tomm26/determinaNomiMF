@@ -2,7 +2,7 @@
 #include <iostream>
 #include "funzioni.h"
 #include <string>
-#include <cstdlib>
+
 
 
 int main()
